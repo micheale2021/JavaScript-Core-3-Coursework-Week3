@@ -16,14 +16,14 @@ Please complete the details below this message
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Micheale Andemariam
+- Your City: WM
+- Your Slack Name: micheale andemariam
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: JavaScript-core-3
+- Week: 3
 
 # Notes
 
